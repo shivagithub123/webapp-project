@@ -1,5 +1,5 @@
 <html>
 <body>
-<h2>This is the mvn project i have created!</h2>
+<h2>this is shivamaven project1!</h2>
 </body>
 </html>
